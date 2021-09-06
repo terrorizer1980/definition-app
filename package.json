@@ -28,7 +28,7 @@
     "dotenv": "^8.2.0",
     "mysql2": "^2.1.0",
     "request": "^2.88.2",
-    "typescript": "^3.8.3"
+    "typescript": "^3.9.10"
   },
   "devDependencies": {
     "@types/chai": "^4.2.11",
